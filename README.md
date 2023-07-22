@@ -19,4 +19,10 @@
 
 ## Wireframe:
 
-_*(Include a simple diagram or image illustrating the basic layout and design of the JobScouts web app)*_
+![About](./assets/about.png)
+![Login](./assets/Login-Page.png)
+![Modal](./assets/modal.png)
+![My-Page](./assets/myJob.png)
+![profile](./assets/prof2.png)
+![SignUp](./assets/SignUp-Page.png)
+![Home](./assets/wireframe-HomePage.png)
