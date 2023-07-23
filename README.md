@@ -19,10 +19,30 @@
 
 ## Wireframe:
 
-![About](./assets/about.png)
-![Login](./assets/Login-Page.png)
-![Modal](./assets/modal.png)
-![My-Page](./assets/myJob.png)
-![profile](./assets/prof2.png)
-![SignUp](./assets/SignUp-Page.png)
-![Home](./assets/wireframe-HomePage.png)
+1 - About
+
+![About](./assets/About_Page_WF.png)
+
+2 - Login
+
+![Login](./assets/Login_Page_WF.png)
+
+3 - Modal
+
+![Modal](./assets/Modal_Page_WF.png)
+
+4 - Home_Page
+
+![Home_Page](./assets/Home_Page_WF.png)
+
+5 - Profile
+
+![profile](./assets/Profile_Page_WF.png)
+
+6 - SignUp
+
+![SignUp](./assets/SignUp_Page_WF.png)
+
+1 - Home
+
+![Home](./assets/Saved_Job_Page_WF.png)
