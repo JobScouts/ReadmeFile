@@ -1,48 +1,49 @@
 # JobScouts - Web App for Job Search
 
-## Project Idea:
+## Project Idea
 
 **Problem to Solve:** The JobScouts web app aims to address the common challenges faced by job seekers when searching for employment opportunities. It provides an efficient and user-friendly platform for job seekers to find suitable job openings and streamlines the job application process.
 
 **Usefulness:** JobScouts will be a valuable tool for job seekers, as it will simplify their job search process by aggregating job listings from various sources and presenting them in a clear and organized manner. The app will allow users to explore relevant job opportunities based on their location, providing them with a convenient and centralized platform to manage their job applications.
 
-## Functionality Plan:
+## Functionality Plan
 
 **Key Features:**
+
 1. **Job Search:** Users can enter keywords, location, and other filters to search for job openings across various industries and positions.
 2. **User Profiles:** Job seekers can create profiles to showcase their skills, experience, and qualifications to potential employers.
 3. **Saved Jobs:** Users can save job listings they are interested in for later review and application.
 
-## 3rd Party API:
+## 3rd Party API
 
 **Selected API:** For data retrieval and job listings, the JobScouts web app will integrate with the [Jsearch API](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch)
 
-## Wireframe:
+## Wireframe
 
 1 - About
 
-![About](./assets/About_Page_WF.png)
+![About](./assets/About.png)
 
 2 - Login
 
-![Login](./assets/Login_Page_WF.png)
+![Login](./assets/Login.png)
 
 3 - Modal
 
-![Modal](./assets/Modal_Page_WF.png)
+![Modal](./assets/Modal.png)
 
 4 - Home_Page
 
-![Home_Page](./assets/Home_Page_WF.png)
+![Home_Page](./assets/Home_Page.png)
 
 5 - Profile
 
-![profile](./assets/Profile_Page_WF.png)
+![profile](./assets/Profile.png)
 
 6 - SignUp
 
-![SignUp](./assets/SignUp_Page_WF.png)
+![SignUp](./assets/SignIn.png)
 
 1 - Home
 
-![Home](./assets/Saved_Job_Page_WF.png)
+![Home](./assets/Saved_Job.png)
